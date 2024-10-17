@@ -1,6 +1,8 @@
 # Vily_VirtualLibrary
 
 ## Home
+![Captura de pantalla 2024-10-17 145231](https://github.com/user-attachments/assets/92fb4c42-a3b2-47ba-ac5b-35421ebe7a31)
+
 <img src="https://github.com/user-attachments/assets/f38eddff-1b93-480b-ba44-2d8326accc4d" alt="Captura de pantalla 2024-10-17 145231" width="800">
 <img src="https://github.com/user-attachments/assets/9d514fdc-4ad8-4dae-8923-70d09d41acb8" alt="Captura de pantalla 2024-10-17 145247" width="800">
 
