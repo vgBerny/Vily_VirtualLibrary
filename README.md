@@ -1,4 +1,5 @@
-# Vily_VirtualLibrary
+# About Vily_VirtualLibrary
+Vily is a virtual bookstore, where you can find both new and used books, each with its own section. You can search for availability by name, add to cart, modify the shopping cart, create an account, log in and make the payment by filling out a form.
 
 ## Home
 <img src="https://github.com/user-attachments/assets/92fb4c42-a3b2-47ba-ac5b-35421ebe7a31" alt="Captura de pantalla 2024-10-17 145231" width="800">
@@ -17,11 +18,3 @@
 ## Account
 <img src="https://github.com/user-attachments/assets/3191622c-5ddf-4343-9fb8-78d09615cadd" alt="Captura de pantalla 2024-10-17 145457" width="800">
 <img src="https://github.com/user-attachments/assets/d5675991-e39f-4b14-af7b-a250ea872a6e" alt="Captura de pantalla 2024-10-17 145507" width="800">
-
-# About Vily
-
-Vily is a virtual bookstore, where you can find both new and used books, each with its own section. You can search for availability by name, add to cart, modify the shopping cart, create an account, log in and make the payment by filling out a form.
-
-
-
-
