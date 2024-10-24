@@ -12,15 +12,6 @@
 - [ https://vgberny.github.io/Vily_VirtualLibrary/]( https://vgberny.github.io/Vily_VirtualLibrary/)
 
 
-
-
-
-
-
-
-# About Vily_VirtualLibrary
-Vily is a virtual library, where you can find both new and used books, each with its own section. You can search for availability by name, add to cart, modify the shopping cart, create an account, log in and make the payment by filling out a form.
-
 ## Home
 <img src="https://github.com/user-attachments/assets/92fb4c42-a3b2-47ba-ac5b-35421ebe7a31" alt="Captura de pantalla 2024-10-17 145231" width="800">
 <img src="https://github.com/user-attachments/assets/42c4899c-6085-474a-ba45-1018141cf646" alt="Captura de pantalla 2024-10-17 145247" width="800">
