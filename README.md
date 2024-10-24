@@ -9,7 +9,7 @@
 * [Personal page](https://vgberny.pythonanywhere.com)
 
 ## See the live example
-- [ https://vgberny.github.io/Vily_VirtualLibrary/]( https://vgberny.github.io/Vily_VirtualLibrary/)
+- [https://vgberny.github.io/Vily_VirtualLibrary/](https://vgberny.github.io/Vily_VirtualLibrary/)
 
 
 ## Home
