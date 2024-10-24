@@ -5,8 +5,8 @@
 ## Author
 **Berny Valverde G.**
 
-*[LinkedIn](linkedin.com/in/vgberny/)
-*[Personal page](https://vgberny.pythonanywhere.com)
+* [LinkedIn](linkedin.com/in/vgberny/)
+* [Personal page](https://vgberny.pythonanywhere.com)
 
 ## See the live example
 - [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
