@@ -1,3 +1,23 @@
+## Description
+<p>Vily is a virtual library, where you can find both new and used books, each with its own section. You can search for availability by name, add to cart, modify the shopping cart, create an account, log in and make the payment by filling out a form. </p>
+<p>Vily is a project built primarily with Python, Django and Vue. And also with JavaScript and HTML.</p>
+
+## Author
+**Berny Valverde G.**
+
+*[LinkedIn](linkedin.com/in/vgberny/)
+*[Personal page](https://vgberny.pythonanywhere.com)
+
+## See the live example
+- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+
+
+
+
+
+
+
+
 # About Vily_VirtualLibrary
 Vily is a virtual library, where you can find both new and used books, each with its own section. You can search for availability by name, add to cart, modify the shopping cart, create an account, log in and make the payment by filling out a form.
 
